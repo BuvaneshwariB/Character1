@@ -1,0 +1,5 @@
+com\Character\CharacterRepository.class
+com\Character\CharacterController.class
+com\Character\CharacterApplication.class
+com\Character\Character.class
+com\Character\SwaggerConfig.class
